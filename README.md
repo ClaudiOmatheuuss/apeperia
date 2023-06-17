@@ -1,7 +1,7 @@
 # projeto-apeperia
 Arquivos do projeto para a Apeperia
 
-Esse repositório foi iniciado o intuito de acompanhar aulas de instrutor da alura | Deploy: 
+Esse repositório foi iniciado o intuito de acompanhar aulas de instrutor da alura | Deploy: https://claudiomatheuuss.github.io/apeperia/
 
 Este projeto foi realizado com base em um arquivo CSS quase pronto e um arquivo de texto, onde a proposta foi 
 utilizar do arquivo de texto e layouts para montar a estrutura do site com HTML e logo após aprimorar o CSS adicionando responsividade e manipulando-o com variáveis CSS.
