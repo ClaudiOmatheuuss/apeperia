@@ -9,7 +9,7 @@
     padding-bottom: 2rem;
 }
 
-.contato-titulo {
+.contato__titulo {
     color: var(--cinza-escuro);
     font-weight: 700;
     font-size: 1.5rem;
@@ -20,7 +20,7 @@
     margin-bottom: 1.25rem;
 }
 
-.contato-botao {
+.contato__botao {
     color: var(--cinza-escuro);
 
     border-color: var(--cinza-escuro);
