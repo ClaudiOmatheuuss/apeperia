@@ -2,7 +2,7 @@
 Arquivos do projeto para a Apeperia
 
 Esse repositório foi iniciado o intuito de acompanhar aulas de instrutor da alura | Deploy: 
-https://claud10matheus.github.io/apeperia/
+https://claudiomatheuuss.github.io/apeperia/
 
 Este projeto foi realizado com base em um projeto figma onde tinhamos os layouts, arquivos CSS e um arquivo de texto, onde a proposta foi 
 utilizar do arquivo de texto e layouts para montar a estrutura do site com HTML e logo após aprimorar o CSS adicionando responsividade, manipulando-o com variáveis CSS e seguindo o layout recomendado pelo figma.
